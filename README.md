@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I’m **Sana Chouikhi**, a Computer Engineer graduated from ISSAT Sousse with a passion for web and mobile development. 🎓
+I’m **Sana Chouikhi**, a Software  Engineer graduated from ISSAT Sousse with a passion for web and mobile development. 🎓
 
 - 👯 I’m interested in collaborating on innovative software development projects.
 - 💬 Feel free to reach out to discuss technology, share project ideas, or ask questions.
