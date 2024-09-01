@@ -13,12 +13,6 @@ I’m **Sana Chouikhi**, a Software Engineer graduated from ISSAT Sousse with a 
 
 ---
 
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sana-chouikhi-00aa6a217)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/SanaChouikhi)
-
----
 
 ### Skills
 
