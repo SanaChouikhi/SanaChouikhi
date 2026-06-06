@@ -1,106 +1,116 @@
-## Hi, I'm Sana Chouikhi 👋
+## Sana Chouikhi
 
-**Software Engineer** — Backend · DevOps & Cloud · ERP & Automation · Full Stack  
-📍 Tunis, Tunisia 🇹🇳 &nbsp;·&nbsp; 💼 Open to remote & international opportunities  
-🌐 [portfolio-chouikhi-sana.netlify.app](https://portfolio-chouikhi-sana.netlify.app)
-
----
-
-### What I Build
-
-| Domain | Focus |
-|--------|-------|
-| ⚙️ **Backend & APIs** | Scalable REST APIs · Microservices · System Design |
-| 🐳 **DevOps & Cloud** | Docker · CI/CD · Linux · OVHcloud · AWS |
-| 🏢 **ERP & Automation** | ERPNext · Frappe · n8n · Workflow Automation |
-| 💻 **Full Stack** | React.js · Angular · Flutter · React Native · TypeScript |
-| 📊 **Observability** | Prometheus · Grafana · Loki · Wazuh |
-| 🔒 **Security** | SSL/TLS · SPF/DKIM/DMARC · HashiCorp Vault · Linux Hardening |
-| 📡 **IoT & Real-time** | MQTT · RTSP · WebRTC · Socket.io |
+```bash
+$ whoami
+> Software Engineer — Backend · DevOps & Cloud · ERP & Automation · Full Stack
+> Based in Tunis, Tunisia 🇹🇳 · Open to remote & international opportunities
+> portfolio-chouikhi-sana.netlify.app
+```
 
 ---
 
-### Tech Stack
+I build production systems — not prototypes.
 
-**Backend**&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**DevOps & Cloud**&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white)
-
-**ERP & Automation**&nbsp;
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=frappe&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**Frontend & Mobile**&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Databases**&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Observability & Security**&nbsp;
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white)
-
-**Tools**&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+REST APIs, containerized deployments, ERP platforms, CI/CD pipelines, real-time applications.
+I care about the part that happens after `git push` — reliability, observability, and systems that don't wake you up at 3am.
 
 ---
 
-### Selected Projects
+### Stack
 
-| | Project | Description | Stack |
-|-|---------|-------------|-------|
-| 🤖 | **IoT Robot Platform** | Real-time monitoring for autonomous security robots — live tracking, dashboards, alerts | React · Node.js · Python · MQTT · RTSP |
-| 🎓 | **Virtual Classroom** | Live teaching platform used by hundreds of students — video, whiteboard, chat | Flutter · Node.js · WebRTC · Socket.io |
-| 💊 | **Hearti App** | Vital signs monitoring with real-time doctor-patient communication | Flutter · Dart |
-| 📱 | **GSM Site Manager** | Field management app — maps, QR scanning, photo uploads | Flutter · Node.js · MySQL |
-| 🏦 | **Banking Mobile App** | Financial transactions app for the French market | React Native · REST APIs |
-| 🛒 | **E-commerce Platform** | Full e-commerce web app with auction features | Angular · Node.js · MongoDB |
+```yaml
+backend:
+  - Python · Django REST Framework
+  - Node.js · Express
+  - Java · REST APIs · System Design
 
-> 🔒 Production and client work is maintained in private repositories.
-> Full case studies available on my **[portfolio](https://portfolio-chouikhi-sana.netlify.app)**.
+devops:
+  - Docker · Docker Compose · GitHub Actions
+  - OVHcloud VPS · AWS · Linux Administration
+  - Nginx · Traefik · SSL/TLS
+
+erp_automation:
+  - ERPNext · Frappe Framework
+  - n8n · Workflow Automation
+
+frontend_mobile:
+  - React.js · Angular · TypeScript · Tailwind CSS
+  - Flutter · React Native
+
+databases:
+  - MariaDB · MySQL · MongoDB · Redis · Firebase
+
+observability:
+  - Prometheus · Grafana · Loki · Wazuh
+
+security:
+  - HashiCorp Vault · SPF/DKIM/DMARC · Linux Hardening
+
+iot_realtime:
+  - MQTT · RTSP · WebRTC · Socket.io
+```
+
+---
+
+### Projects
+
+**🤖 IoT Robot Monitoring Platform** &nbsp;·&nbsp; Enova Robotics
+Real-time fleet monitoring for autonomous security robots.
+Live tracking · health dashboards · performance analytics · automated reports.
+`React` `Node.js` `Python` `MQTT` `RTSP` `MongoDB`
+
+**🎓 Virtual Classroom** &nbsp;·&nbsp; Sindibad Group
+Live teaching platform used by hundreds of students.
+Video calls · interactive whiteboard · live chat · screen sharing.
+`Flutter` `Node.js` `WebRTC` `Socket.io` `MySQL`
+
+**💊 Hearti App** &nbsp;·&nbsp; Personal
+Vital signs monitoring with real-time doctor–patient communication.
+`Flutter` `Dart` `REST APIs`
+
+**📱 GSM Site Manager** &nbsp;·&nbsp; Tunisie Telecom
+Field mobile app for telecom engineers — maps, QR scanning, photo uploads.
+Reduced issue reporting time by 50%.
+`Flutter` `Node.js` `MySQL`
+
+**🏦 Banking Mobile App** &nbsp;·&nbsp; Online VIP Consulting
+Financial transactions app for the French market.
+`React Native` `REST APIs`
+
+**🛒 E-commerce & Auction Platform** &nbsp;·&nbsp; Academic
+Full e-commerce web app with real-time auction features.
+`Angular` `Node.js` `MongoDB`
+
+```
+// Most production work lives in private repositories.
+// Full case studies → portfolio-chouikhi-sana.netlify.app
+```
 
 ---
 
 ### Certifications
 
 ```
-2026  ·  Full-Stack App Development — Frappe Framework  ·  Frappe School
-2020  ·  Python Programming
-2020  ·  C Programming for Embedded Systems
-2020  ·  Introduction to IoT Systems
-2019  ·  JavaScript · Bootstrap · PHP
-2019  ·  Networking Fundamentals
+2026  Frappe Framework V15 — Full-Stack App Development  [Frappe School]
+2020  Python Programming
+2020  C for Embedded Systems
+2020  Introduction to IoT
+2019  JavaScript · Bootstrap · PHP
+2019  Networking Fundamentals
 ```
 
 ---
 
-### Get in Touch
+### Contact
+
+```bash
+$ curl contact/sana
+{
+  "email"     : "sanachouikhi1999@gmail.com",
+  "linkedin"  : "linkedin.com/in/sana-chouikhi",
+  "portfolio" : "portfolio-chouikhi-sana.netlify.app"
+}
+```
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanachouikhi1999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-chouikhi)
