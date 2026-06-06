@@ -1,30 +1,19 @@
 ## Sana Chouikhi
 
-*Software Engineer — Backend · DevOps & Cloud · ERP & Automation · Full Stack*  
-📍 Tunis, Tunisia &nbsp;·&nbsp; Open to remote & international opportunities  
-[portfolio-chouikhi-sana.netlify.app](https://portfolio-chouikhi-sana.netlify.app)
+*Software Engineer — Backend · DevOps & Cloud · ERP & Automation · Full Stack*
+
+📍 Tunis, Tunisia &nbsp;·&nbsp; Open to remote & international opportunities
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanachouikhi1999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-chouikhi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://portfolio-chouikhi-sana.netlify.app)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SanaChouikhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="36%"/>
 
-I build production systems — APIs, containerized infrastructure, ERP platforms, CI/CD pipelines, real-time applications.
-
-I care about what happens after `git push`.
+I build systems that work in production.  
+APIs, containerized infrastructure, ERP platforms, CI/CD pipelines, real-time applications.
 
 <br clear="right"/>
-
----
-
-#### Work
-
-| | Focus |
-|-|-------|
-| ⚙️ | Backend Engineering — REST APIs · Microservices · System Design |
-| 🐳 | DevOps & Cloud — Docker · CI/CD · Linux · OVHcloud · AWS |
-| 🏢 | ERP & Automation — ERPNext · Frappe · n8n |
-| 💻 | Full Stack — React.js · Angular · Flutter · React Native |
-| 📊 | Observability — Prometheus · Grafana · Loki · Wazuh |
-| 🔒 | Security — SSL/TLS · SPF/DKIM/DMARC · HashiCorp Vault |
-| 📡 | IoT & Real-time — MQTT · RTSP · WebRTC · Socket.io |
 
 ---
 
@@ -81,32 +70,26 @@ I care about what happens after `git push`.
 
 #### Projects
 
-| | Project | Description | Stack |
-|-|---------|-------------|-------|
-| 🤖 | **IoT Robot Platform** | Real-time monitoring for autonomous security robots | React · Node.js · Python · MQTT · RTSP |
-| 🎓 | **Virtual Classroom** | Live teaching platform — video, whiteboard, chat | Flutter · Node.js · WebRTC · Socket.io |
-| 💊 | **Hearti App** | Vital signs monitoring with doctor-patient communication | Flutter · Dart |
-| 📱 | **GSM Site Manager** | Field management — maps, QR scanning, photo uploads | Flutter · Node.js · MySQL |
-| 🏦 | **Banking Mobile App** | Financial transactions app for the French market | React Native · REST APIs |
-| 🛒 | **E-commerce Platform** | Web app with auction features | Angular · Node.js · MongoDB |
+| | Project | Stack |
+|-|---------|-------|
+| 🤖 | **IoT Robot Platform** — Real-time monitoring for autonomous security robots | React · Node.js · Python · MQTT · RTSP |
+| 🎓 | **Virtual Classroom** — Live teaching platform, video calls, whiteboard, chat | Flutter · Node.js · WebRTC · Socket.io |
+| 💊 | **Hearti App** — Vital signs monitoring with doctor-patient communication | Flutter · Dart · REST APIs |
+| 📱 | **GSM Site Manager** — Field management, maps, QR scanning, photo uploads | Flutter · Node.js · MySQL |
+| 🏦 | **Banking Mobile App** — Financial transactions for the French market | React Native · REST APIs |
+| 🛒 | **E-commerce Platform** — Web app with auction features | Angular · Node.js · MongoDB |
 
-*Most of my work is in private repositories — [portfolio](https://portfolio-chouikhi-sana.netlify.app) for more context.*
+*Most of my work is in private repositories. More on my [portfolio](https://portfolio-chouikhi-sana.netlify.app).*
 
 ---
 
 #### Certifications
 
 ```
-2026  Full-Stack App Development — Frappe Framework   Frappe School
+2026  Full-Stack App Development — Frappe Framework  ·  Frappe School
 2020  Python Programming
 2020  C Programming for Embedded Systems
 2020  Introduction to IoT Systems
 2019  JavaScript · Bootstrap · PHP
 2019  Networking Fundamentals
 ```
-
----
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanachouikhi1999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-chouikhi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://portfolio-chouikhi-sana.netlify.app)
