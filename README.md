@@ -1,117 +1,84 @@
-## Sana Chouikhi
+# Portfolio — Sana Chouikhi
 
-```bash
-$ whoami
-> Software Engineer — Backend · DevOps & Cloud · ERP & Automation · Full Stack
-> Based in Tunis, Tunisia 🇹🇳 · Open to remote & international opportunities
-> portfolio-chouikhi-sana.netlify.app
-```
+> Software Engineer · Backend · DevOps & Cloud · ERP & Automation · Full Stack
 
----
-
-I build production systems — not prototypes.
-
-REST APIs, containerized deployments, ERP platforms, CI/CD pipelines, real-time applications.
-I care about the part that happens after `git push` — reliability, observability, and systems that don't wake you up at 3am.
+[![Live](https://img.shields.io/badge/Live-portfolio--chouikhi--sana.netlify.app-0089FF?style=flat-square&logo=netlify&logoColor=white)](https://portfolio-chouikhi-sana.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-chouikhi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanachouikhi1999@gmail.com)
 
 ---
 
-### Stack
+My personal portfolio. Built to be fast, clean, and honest about what I've built and how I work.
+
+No templates. No lorem ipsum. Real projects, real stack, real decisions.
+
+---
+
+### Built with
 
 ```yaml
-backend:
-  - Python · Django REST Framework
-  - Node.js · Express
-  - Java · REST APIs · System Design
-
-devops:
-  - Docker · Docker Compose · GitHub Actions
-  - OVHcloud VPS · AWS · Linux Administration
-  - Nginx · Traefik · SSL/TLS
-
-erp_automation:
-  - ERPNext · Frappe Framework
-  - n8n · Workflow Automation
-
-frontend_mobile:
-  - React.js · Angular · TypeScript · Tailwind CSS
-  - Flutter · React Native
-
-databases:
-  - MariaDB · MySQL · MongoDB · Redis · Firebase
-
-observability:
-  - Prometheus · Grafana · Loki · Wazuh
-
-security:
-  - HashiCorp Vault · SPF/DKIM/DMARC · Linux Hardening
-
-iot_realtime:
-  - MQTT · RTSP · WebRTC · Socket.io
+framework   : Astro
+language    : TypeScript
+styling     : Tailwind CSS
+deployment  : Netlify · Auto-deploy on push to main
 ```
 
 ---
 
-### Projects
-
-**🤖 IoT Robot Monitoring Platform** &nbsp;·&nbsp; Enova Robotics
-Real-time fleet monitoring for autonomous security robots.
-Live tracking · health dashboards · performance analytics · automated reports.
-`React` `Node.js` `Python` `MQTT` `RTSP` `MongoDB`
-
-**🎓 Virtual Classroom** &nbsp;·&nbsp; Sindibad Group
-Live teaching platform used by hundreds of students.
-Video calls · interactive whiteboard · live chat · screen sharing.
-`Flutter` `Node.js` `WebRTC` `Socket.io` `MySQL`
-
-**💊 Hearti App** &nbsp;·&nbsp; Personal
-Vital signs monitoring with real-time doctor–patient communication.
-`Flutter` `Dart` `REST APIs`
-
-**📱 GSM Site Manager** &nbsp;·&nbsp; Tunisie Telecom
-Field mobile app for telecom engineers — maps, QR scanning, photo uploads.
-Reduced issue reporting time by 50%.
-`Flutter` `Node.js` `MySQL`
-
-**🏦 Banking Mobile App** &nbsp;·&nbsp; Online VIP Consulting
-Financial transactions app for the French market.
-`React Native` `REST APIs`
-
-**🛒 E-commerce & Auction Platform** &nbsp;·&nbsp; Academic
-Full e-commerce web app with real-time auction features.
-`Angular` `Node.js` `MongoDB`
+### Structure
 
 ```
-// Most production work lives in private repositories.
-// Full case studies → portfolio-chouikhi-sana.netlify.app
+/
+├── src/
+│   ├── components/     # UI components
+│   ├── layouts/        # Page layouts
+│   ├── pages/          # Routes & views
+│   └── content/        # Projects & experience data
+├── public/             # Static assets
+└── astro.config.mjs
 ```
 
 ---
 
-### Certifications
+### Projects featured
 
-```
-2026  Frappe Framework V15 — Full-Stack App Development  [Frappe School]
-2020  Python Programming
-2020  C for Embedded Systems
-2020  Introduction to IoT
-2019  JavaScript · Bootstrap · PHP
-2019  Networking Fundamentals
-```
+| | Project | Context | Stack |
+|-|---------|---------|-------|
+| 🤖 | **IoT Robot Monitoring Platform** | Enova Robotics | React · Node.js · Python · MQTT · RTSP |
+| 🎓 | **Virtual Classroom** | Sindibad Group | Flutter · Node.js · WebRTC · Socket.io |
+| 💊 | **Hearti App** | Personal | Flutter · Dart · REST APIs |
+| 📱 | **GSM Site Manager** | Tunisie Telecom | Flutter · Node.js · MySQL |
+| 🏦 | **Banking Mobile App** | Online VIP Consulting | React Native · REST APIs |
+| 🛒 | **E-commerce Platform** | Academic | Angular · Node.js · MongoDB |
 
 ---
 
-### Contact
+### Run locally
 
 ```bash
-$ curl contact/sana
-{
-  "email"     : "sanachouikhi1999@gmail.com",
-  "linkedin"  : "linkedin.com/in/sana-chouikhi",
-  "portfolio" : "portfolio-chouikhi-sana.netlify.app"
-}
+git clone https://github.com/SanaChouikhi/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
 ```
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanachouikhi1999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-chouikhi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://portfolio-chouikhi-sana.netlify.app)
+---
+
+### Deploy
+
+```bash
+# Auto-deployed on Netlify on every push to main
+npm run build
+```
+
+---
+
+### License
+
+MIT — inspiration welcome, copy-paste not.
+
+---
+
+<div align="right">
+<sub>Sana Chouikhi · <a href="https://portfolio-chouikhi-sana.netlify.app">portfolio-chouikhi-sana.netlify.app</a></sub>
+</div>
