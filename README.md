@@ -4,6 +4,8 @@
 📍 Tunis, Tunisia 🇹🇳 &nbsp;·&nbsp; 💼 Open to remote & international opportunities  
 🌐 [portfolio-chouikhi-sana.netlify.app](https://portfolio-chouikhi-sana.netlify.app)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SanaChouikhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="38%"/>
+
 ---
 
 ### What I Build
@@ -17,6 +19,8 @@
 | 📊 **Observability** | Prometheus · Grafana · Loki · Wazuh |
 | 🔒 **Security** | SSL/TLS · SPF/DKIM/DMARC · HashiCorp Vault · Linux Hardening |
 | 📡 **IoT & Real-time** | MQTT · RTSP · WebRTC · Socket.io |
+
+<br clear="right"/>
 
 ---
 
@@ -82,8 +86,8 @@
 | 🏦 | **Banking Mobile App** | Financial transactions app for the French market | React Native · REST APIs |
 | 🛒 | **E-commerce Platform** | Full e-commerce web app with auction features | Angular · Node.js · MongoDB |
 
-> 🔒 Production and client work is maintained in private repositories.
-> Full case studies available on my **[portfolio](https://portfolio-chouikhi-sana.netlify.app)**.
+> 🔒 Most of my work is maintained in private repositories.  
+> More on my **[portfolio](https://portfolio-chouikhi-sana.netlify.app)**.
 
 ---
 
