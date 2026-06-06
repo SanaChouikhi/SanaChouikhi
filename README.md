@@ -1,46 +1,67 @@
-## Hi, I'm Sana Chouikhi 👋
+## Hello 👋
 
-Software Engineer specialized in **ERP Systems, Backend Development, and DevOps**.  
-Based in Tunis, Tunisia 🇹🇳 | Open to remote & international opportunities.
-
----
-
-### 🚀 What I Do
-
-- **ERP Development** — ERPNext & Frappe Framework (certified), custom modules, workflow automation
-- **Backend Engineering** — Python, Django REST Framework, Node.js, REST APIs
-- **DevOps & Cloud** — Docker, GitHub Actions CI/CD, OVH VPS, Linux administration
-- **Observability** — Prometheus, Grafana, Loki
-- **Full Stack** — React.js, Flutter, Angular
+I’m **Sana Chouikhi**, a Software Engineer graduated from ISSAT Sousse with a passion for web and mobile development. 🎓
 
 ---
 
-### 🛠️ Core Stack
+### About Me
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![ERPNext](https://img.shields.io/badge/-ERPNext-0089FF?style=flat&logo=frappe&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat&logo=linux&logoColor=white)
+- 👯 I’m interested in collaborating on innovative software development projects.
+- 💬 Feel free to reach out to discuss technology, share project ideas, or ask questions.
+- 📫 You can contact me via email: [sanachouikhi1999@gmail.com](mailto:sanachouikhi1999@gmail.com).
+- ⚡ Fun fact: I love traveling and exploring new cultures! 🌍
+
+---
+
+
+### Skills
+
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?style=flat&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-brown?style=flat&logo=mariadb&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat&logo=react&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-green?style=flat&logo=android&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=matlab&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-blue?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-green?style=flat&logo=raspberry-pi&logoColor=white)
 
 ---
 
-### 📌 Highlights
+### Projects
 
-- Deployed full production ERPNext environment with 9 custom apps on OVH VPS
-- Built CI/CD pipelines with GitHub Actions — 93 iterations, 16/16 acceptance tests passed
-- Automated business workflows reducing manual processing by 80%
-- Designed complete email infrastructure (SMTP, SPF, DKIM, DMARC)
-- Certified: Frappe Framework V15 Full-Stack App Development (2026)
+I have been involved in various exciting projects across web and mobile development, showcasing a range of skills and technologies. Due to the confidential nature of these projects, I am unable to share the source code publicly. However, I am more than willing to discuss my experiences, project highlights, and the technologies I employed in detail during an interview or upon request.
 
 ---
 
-### 📫 Contact
+### Contact
 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sanachouikhi1999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-chouikhi)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=netlify&logoColor=white)](https://portfolio-chouikhi-sana.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-chouikhi-00aa6a217)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/SanaChouikhi)
+
+---
+
+Thank you for visiting my profile! 😄
