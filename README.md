@@ -89,7 +89,7 @@ My professional experience includes:
 
 Professional portfolio showcasing selected projects and technical experience.
 
-🔗 https://portfolio-chouikhi-sana.netlify.app/
+🔗 [portfolio-chouikhi-sana.netlify.app](https://portfolio-chouikhi-sana.netlify.app/)
 
 ---
 
@@ -115,17 +115,12 @@ Developed and customized ERP solutions using Frappe Framework and ERPNext.
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanaChouikhi&show_icons=true&hide_border=true&count_private=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanaChouikhi&show_icons=true&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaChouikhi&layout=compact&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=SanaChouikhi&hide_border=true"/>
-
 </p>
 
 ---
@@ -143,24 +138,19 @@ Developed and customized ERP solutions using Frappe Framework and ERPNext.
 
 ## 🤝 Connect With Me
 
-Portfolio
+**Portfolio**
+🌐 [portfolio-chouikhi-sana.netlify.app](https://portfolio-chouikhi-sana.netlify.app/)
 
-🌐 https://portfolio-chouikhi-sana.netlify.app/
+**LinkedIn**
+💼 [linkedin.com/in/sana-chouikhi](https://linkedin.com/in/sana-chouikhi)
 
-LinkedIn
-
-💼 https://linkedin.com/in/sana-chouikhi
-
-Email
-
-📧 sanachouikhi1999@gmail.com
+**Email**
+📧 [sanachouikhi1999@gmail.com](mailto:sanachouikhi1999@gmail.com)
 
 ---
 
 <p align="center">
-
 <i>
 "Good software is not only code. It's architecture, reliability, scalability and continuous improvement."
 </i>
-
 </p>
