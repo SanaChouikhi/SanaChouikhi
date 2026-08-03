@@ -1,67 +1,92 @@
-## Hello 👋
+# Hi there, I'm Sana Chouikhi 👋
 
-I’m **Sana Chouikhi**, a Software Engineer graduated from ISSAT Sousse with a passion for web and mobile development. 🎓
+### Software Engineer | Backend • Cloud • DevOps • ERP Systems
 
----
+I'm a Software Engineer passionate about designing scalable backend systems, cloud infrastructure, and production-ready applications.
 
-### About Me
-
-- 👯 I’m interested in collaborating on innovative software development projects.
-- 💬 Feel free to reach out to discuss technology, share project ideas, or ask questions.
-- 📫 You can contact me via email: [sanachouikhi1999@gmail.com](mailto:sanachouikhi1999@gmail.com).
-- ⚡ Fun fact: I love traveling and exploring new cultures! 🌍
+My experience spans ERP platforms, REST APIs, cloud deployments, DevOps automation, and full-stack software development. I enjoy solving complex engineering problems while building reliable and maintainable systems.
 
 ---
 
+## 🚀 About Me
 
-### Skills
-
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat&logo=symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat&logo=react&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-green?style=flat&logo=android&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=matlab&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat&logo=kotlin&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-blue?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-green?style=flat&logo=raspberry-pi&logoColor=white)
+- 💼 Software Engineer with experience building production systems
+- 🔹 Specialized in Backend Engineering, Cloud & DevOps
+- 🔹 Experienced with ERPNext & Frappe Framework
+- 🔹 Passionate about System Design, APIs and Distributed Systems
+- 🌍 Open to international opportunities, remote roles and collaborations
+- 📍 Tunisia
 
 ---
 
-### Projects
+## 💻 Tech Stack
 
-I have been involved in various exciting projects across web and mobile development, showcasing a range of skills and technologies. Due to the confidential nature of these projects, I am unable to share the source code publicly. However, I am more than willing to discuss my experiences, project highlights, and the technologies I employed in detail during an interview or upon request.
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### ERP
+
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge)
+![Frappe Framework](https://img.shields.io/badge/Frappe_Framework-7A52FF?style=for-the-badge)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### Contact
+## 🎯 Current Focus
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sanachouikhi1999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-chouikhi-00aa6a217)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/SanaChouikhi)
+- Backend Engineering
+- Cloud Infrastructure
+- DevOps & CI/CD
+- REST API Design
+- ERP Systems
+- System Architecture
+- AI-assisted Software Engineering
 
 ---
 
-Thank you for visiting my profile! 😄
+## 📌 Featured Projects
+
+Some professional projects are confidential and cannot be shared publicly.
+
+Public repositories demonstrate my development practices, architecture, and coding style, while my professional experience includes production ERP systems, cloud infrastructure, deployment automation, monitoring, and enterprise software development.
+
+---
+
+## 📫 Connect with Me
+
+🌐 Portfolio
+
+https://portfolio-chouikhi-sana.netlify.app/
+
+💼 LinkedIn
+
+https://linkedin.com/in/sana-chouikhi
+
+📧 Email
+
+sanachouikhi1999@gmail.com
+
+---
+
+> *"Building reliable software is not only about writing code — it's about designing systems that scale, remain maintainable, and solve real-world problems."*
