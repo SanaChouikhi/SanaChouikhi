@@ -1,92 +1,166 @@
-# Hi there, I'm Sana Chouikhi 👋
+<h1 align="center">Hi, I'm Sana Chouikhi 👋</h1>
 
-### Software Engineer | Backend • Cloud • DevOps • ERP Systems
+<h3 align="center">
+Software Engineer • Backend • Cloud • DevOps • ERP Systems
+</h3>
 
-I'm a Software Engineer passionate about designing scalable backend systems, cloud infrastructure, and production-ready applications.
-
-My experience spans ERP platforms, REST APIs, cloud deployments, DevOps automation, and full-stack software development. I enjoy solving complex engineering problems while building reliable and maintainable systems.
-
----
-
-## 🚀 About Me
-
-- 💼 Software Engineer with experience building production systems
-- 🔹 Specialized in Backend Engineering, Cloud & DevOps
-- 🔹 Experienced with ERPNext & Frappe Framework
-- 🔹 Passionate about System Design, APIs and Distributed Systems
-- 🌍 Open to international opportunities, remote roles and collaborations
-- 📍 Tunisia
+<p align="center">
+Building scalable backend systems, cloud infrastructure and production-grade applications.
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 👩‍💻 About Me
+
+I'm a Software Engineer with experience designing, building and maintaining production software.
+
+My work focuses on backend engineering, cloud infrastructure, DevOps automation and enterprise ERP solutions. I enjoy solving complex engineering problems by building reliable, maintainable and scalable systems.
+
+Currently interested in:
+
+- Backend Engineering
+- Cloud Computing
+- DevOps & Infrastructure
+- Distributed Systems
+- System Design
+- AI-assisted Software Engineering
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,dart"/>
+</p>
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,django"/>
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter"/>
+</p>
 
 ### Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### ERP
-
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge)
-![Frappe Framework](https://img.shields.io/badge/Frappe_Framework-7A52FF?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx,git"/>
+</p>
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### ERP
+
+- ERPNext
+- Frappe Framework
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Professional Experience
 
-- Backend Engineering
-- Cloud Infrastructure
-- DevOps & CI/CD
-- REST API Design
-- ERP Systems
-- System Architecture
-- AI-assisted Software Engineering
+My professional experience includes:
+
+- Designing scalable backend architectures
+- Building RESTful APIs
+- ERPNext & Frappe development
+- Docker-based deployments
+- CI/CD implementation
+- Linux server administration
+- Cloud infrastructure
+- Monitoring & troubleshooting
+- Security best practices
+- Production system maintenance
 
 ---
 
 ## 📌 Featured Projects
 
-Some professional projects are confidential and cannot be shared publicly.
+### 🌐 Portfolio
 
-Public repositories demonstrate my development practices, architecture, and coding style, while my professional experience includes production ERP systems, cloud infrastructure, deployment automation, monitoring, and enterprise software development.
+Professional portfolio showcasing selected projects and technical experience.
 
----
-
-## 📫 Connect with Me
-
-🌐 Portfolio
-
-https://portfolio-chouikhi-sana.netlify.app/
-
-💼 LinkedIn
-
-https://linkedin.com/in/sana-chouikhi
-
-📧 Email
-
-sanachouikhi1999@gmail.com
+🔗 https://portfolio-chouikhi-sana.netlify.app/
 
 ---
 
-> *"Building reliable software is not only about writing code — it's about designing systems that scale, remain maintainable, and solve real-world problems."*
+### Enterprise ERP Systems
+
+Developed and customized ERP solutions using Frappe Framework and ERPNext.
+
+**Highlights**
+
+- Business workflow automation
+- REST APIs
+- Production deployments
+- Docker infrastructure
+- Cloud hosting
+- Monitoring
+- Security
+- Performance optimization
+
+> Source code is private due to confidentiality agreements.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanaChouikhi&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaChouikhi&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SanaChouikhi&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced Backend Architecture
+- Cloud-native Applications
+- Kubernetes
+- Distributed Systems
+- Observability
+- AI Engineering
+
+---
+
+## 🤝 Connect With Me
+
+Portfolio
+
+🌐 https://portfolio-chouikhi-sana.netlify.app/
+
+LinkedIn
+
+💼 https://linkedin.com/in/sana-chouikhi
+
+Email
+
+📧 sanachouikhi1999@gmail.com
+
+---
+
+<p align="center">
+
+<i>
+"Good software is not only code. It's architecture, reliability, scalability and continuous improvement."
+</i>
+
+</p>
