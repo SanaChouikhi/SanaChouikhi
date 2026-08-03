@@ -62,7 +62,7 @@ My work focuses on backend engineering, cloud infrastructure, DevOps automation 
 **[Portfolio](https://github.com/SanaChouikhi/Portfolio)** — Professional portfolio showcasing selected projects and technical experience.
 🔗 [portfolio-chouikhi-sana.netlify.app](https://portfolio-chouikhi-sana.netlify.app/)
 
-**Enterprise ERP Systems** — Developed and customized ERP solutions using Frappe Framework and ERPNext, covering workflow automation, REST APIs, Docker-based deployments, cloud hosting, monitoring and security.
+**ERP Systems (Professional Experience)** — Worked on developing and customizing ERP solutions using Frappe Framework and ERPNext, covering workflow automation, REST APIs, Docker-based deployments, cloud hosting, monitoring and security.
 
 > Source code is private due to confidentiality agreements.
 
