@@ -85,7 +85,7 @@ My professional experience includes:
 
 ## 📌 Featured Projects
 
-### 🌐 Portfolio
+### 🌐 [Portfolio](https://github.com/SanaChouikhi/Portfolio)
 
 Professional portfolio showcasing selected projects and technical experience.
 
@@ -109,19 +109,6 @@ Developed and customized ERP solutions using Frappe Framework and ERPNext.
 - Performance optimization
 
 > Source code is private due to confidentiality agreements.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanaChouikhi&show_icons=true&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaChouikhi&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SanaChouikhi&hide_border=true"/>
-</p>
 
 ---
 
